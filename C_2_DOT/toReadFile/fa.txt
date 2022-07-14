@@ -1,0 +1,20 @@
+//DFA
+A,B,C,D
+1,2,3
+A
+C,D
+[ A,1,B A,2,B A,3,D B,2,C B,3,D ]
+
+//NFA
+A,B,C,D,E
+1,2,3
+A
+C
+[ A,1,B A,1,C A,3,D B,2,C B,3,D D,2,E E,1,C ]
+
+//NFA-e
+A,B,C,D,E
+1,2,3,e
+A
+C
+[ A,1,B A,1,C A,3,D B,2,C B,3,D D,2,E E,1,C E,e,C ]

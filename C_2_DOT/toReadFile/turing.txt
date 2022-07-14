@@ -1,0 +1,7 @@
+A,B,C,D
+1,2,3
+M,Q,Z
+e
+A
+C,D
+[ A>B:M/Q,L B>C:Q/Z,R ]
