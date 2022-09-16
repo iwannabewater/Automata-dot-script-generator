@@ -1,4 +1,4 @@
-# BUPT_Summer_Camp
+# Automata dot script generator
 BUPT Summer Camp Topology Map Practice Project Materials Summary--Script Design of Automata Dot Drawing Based on C Language
 
 # 基于c语言的自动机dot脚本生成器
